@@ -1,0 +1,7 @@
+/LOG_PATH_IS_UNDEFINED
+/logs
+/.idea  
+/.git
+/work
+*.iml
+target
